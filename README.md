@@ -1,4 +1,4 @@
-# Samba/CTDB-Cluster without a clustered FS
+# Samba File Server in a Container
 
 This repository contains a Vagrantfile that describes the
 setup of a simple Samba file server in a fedora-LXC host.
